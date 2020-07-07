@@ -1,3 +1,8 @@
+.container{
+    padding-bottom: 50px;
+}
+
+
 .orange-bg{
     background-color: #fceae8;
     border-radius: 15px;
@@ -11,6 +16,50 @@
 .btn{
     padding: 10px 20px;
 }
-.btn:hover{
-    background-color: cyan;
+
+    
+.catagory1{
+    background-color: darkblue;
+}
+.catagory2{
+    background-color: darkcyan;
+}
+.catagory3{
+    background-color: gold;
+}
+.cata{
+    padding: 50px 0;
+    
+}
+.cata h1{
+    color: #ffffff;
+    text-align: center;
+}
+.catagory1, .catagory2, .catagory3{
+    padding: 20px 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 15px;
+}
+.card h5{
+    font-family: roboto;
+}
+
+#Subscribe{
+    height: 300px;
+}
+
+#Subscribe h3{
+    color: #000000;
+    text-transform: capitalize;
+    font-family: roboto;
+ }
+ 
+#Subscribe h6{
+   color: gray;
+   text-transform: capitalize;
+}
+footer{
+    text-align: center;
 }
